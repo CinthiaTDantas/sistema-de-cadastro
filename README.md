@@ -3,5 +3,5 @@
 > Status do projeto: Para rodar esse projeto na sua máquina
 
 '''
-npm install react
+node app.js
 '''
